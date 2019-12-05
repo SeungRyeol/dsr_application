@@ -1,0 +1,25 @@
+# Joystick Configuration Settings
+# Default setup is a sixaxis controller
+# Use a program such as jstest-gtk to find out your preferred mappings
+# If you create a new one you can pass to the launch file with the joy_mapping arg.
+
+# AXES
+JOINT1_LEFT: 2
+JOINT1_RIGHT: 5
+JOINT2: 0
+JOINT3: 1
+JOINT4: 3
+JOINT5: 4
+
+# Button
+B_BUTTON: 0
+A_BUTTON: 1
+X_BUTTON: 2
+Y_BUTTON: 3
+L1_BUTTON: 4
+R1_BUTTON: 5
+MINUS_BUTTON: 8
+PLUS_BUTTON: 9
+HOME_BUTTON: 10
+JOINT6_C: 15
+JOINT6_CC: 16
